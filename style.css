@@ -1,0 +1,17 @@
+.card1{
+    background-image: url("https://cdn.pixabay.com/photo/2017/06/21/10/57/landscape-2426876_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card2{
+    background-image: url("https://w0.peakpx.com/wallpaper/357/586/HD-wallpaper-water-drops-on-glass-water-drop-light-background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.card3{
+    background-image: url("https://cdn.pixabay.com/photo/2022/01/10/15/29/wind-mills-6928590_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
